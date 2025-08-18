@@ -29,4 +29,11 @@ As an engineering team, my task is to create simple, intuitive logic, which is B
 - **Economics**: The system needs to be cost-effective enough to be implemented at multiple crossings.  
 - **Social**: The system needs to be easy to understand and interact with all the users. There is no need for complex system management.  
 - **Environmental**: System must be operated in all temperature extremes.  
-- **Legal**: The system must fulfil railway safety standards to be authorised for operation.  
+- **Legal**: The system must fulfil railway safety standards to be authorised for operation.
+
+### Stakeholders:
+-	Local government
+-	Railway operators
+-	Pedestrian and vehicle drivers
+-	Maintenance teams
+
