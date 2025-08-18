@@ -1,7 +1,23 @@
-# Railway Crossing System
+# Railway Crossing Safety System (Assignment 1 – Part 2)
 
-## The key point of this assignment.
-This task involves designing a safety system to ensure that gates are lowered when a train is approaching or a vehicle remains on the track and only raised once it is entirely safe.  
-As an engineering team, my task is to create simple, intuitive logic, which is Boolean logic and digital logic gates.
+## Overview
+Logic-based safety system for a railway level crossing. Gates lower if a train is approaching or a vehicle is on the track, and only raise when safe.
 
-Click for each of the different files to check for the assignments.
+## Repository Structure
+- /Step1_Analysis — Restated problem, inputs/outputs, constraints, stakeholders
+- /Step2_Alternatives — Two solutions + real-world example
+- /Step3_4_Evaluation_Decision — Evaluation and final decision
+- /Step5_6_Algorithm_Flowchart — Word-based code + flowchart.png
+- /Step7_Testing — Truth table, test cases, refinements
+- /Docs — Source documents (Word/PDF)
+
+## How to View
+- Flowchart: `/Step5_6_Algorithm_Flowchart/flowchart.png`
+- Algorithm: `/Step5_6_Algorithm_Flowchart/word_code.md`
+- Test results: `/Step7_Testing/test_plan.md`
+
+## Part 2 Compliance
+- Repository structured step by step
+- README included
+- Flowchart, word code, test results pushed
+- Tutor and lecturer added as collaborators
