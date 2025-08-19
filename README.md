@@ -8,7 +8,6 @@ Logic-based safety system for a railway level crossing. Gates lower if a train i
 - /Step2_Alternatives — Two solutions + real-world example
 - /Step3_4_Evaluation_Decision — Evaluation and final decision
 - /Step5_6_Algorithm_Flowchart — Word-based code + flowchart.png
-- /Step7_Testing — Truth table, test cases, refinements
-- /Docs — Source documents (Word/PDF)
+- /Step7_Testing — test cases and refinements
 
 
