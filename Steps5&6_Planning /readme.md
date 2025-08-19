@@ -28,6 +28,6 @@
 ## Flowchart
 The flowchart below represents the sequence above.
 
-![Flowchart of Railway Crossing Safety System](flowchart.png)
+![flowchart](../flowchart.png)
 
 *(Note: Ensure that `flowchart.png` is exported from your Draw.io diagram and placed in this folder so that GitHub displays it here.)*
