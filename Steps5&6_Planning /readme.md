@@ -30,4 +30,3 @@ The flowchart below represents the sequence above.
 
 ![flowchart](../flowchart.png)
 
-*(Note: Ensure that `flowchart.png` is exported from your Draw.io diagram and placed in this folder so that GitHub displays it here.)*
